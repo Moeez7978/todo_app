@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
-  "homepage": "https://moeez7978.github.io/todo-app",
-  "private": false,
+  "homepage": "./n",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
